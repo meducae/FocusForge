@@ -26,4 +26,4 @@
 This project isn't just an app; it's a statement against the attention economy. It turns the phone from a distraction device into a tool for self-improvement.
 
 ---
-*Developed by FocusForge Team.*
+*Developed by Xurramov Soatmurod.*
