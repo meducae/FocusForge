@@ -1,6 +1,6 @@
 # 🛡️ FocusForge — Dopamine Detox & Productivity Engine
 
-[![Download FocusForge](https://img.shields.io/badge/Download-APK_v1.0.0-brightgreen?style=for-the-badge&logo=android)](https://github.com/YOUR_GITHUB_USERNAME/FocusForge/releases/latest)
+[![Download FocusForge](https://img.shields.io/badge/Download-APK_v1.0.0-brightgreen?style=for-the-badge&logo=android)](https://github.com/meducae/FocusForge/releases/latest)
 
 ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
